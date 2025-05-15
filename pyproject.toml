@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "simplerio"  # Change this to your final chosen name
+name = "simple-io-kit"  # Change this to your final chosen name
 version = "1.0.0"
 description = "Simple and easy-to-use file and JSON I/O utilities."
 readme = "README.md"
